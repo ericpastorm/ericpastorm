@@ -1,5 +1,5 @@
 [![MasterHead](header.png)](https://github.com/ericpastorm/ericpastorm)
-![<ericpastorm>'s Stats](https://github-readme-stats.vercel.app/api?ericpastorm=<ericpastorm>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpastorm)](https://github.com/ericpastorm/ericpastorm)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
