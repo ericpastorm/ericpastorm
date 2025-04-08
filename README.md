@@ -1,5 +1,5 @@
 [![MasterHead](header.png)](https://github.com/ericpastorm/ericpastorm)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=FFC312&width=435&lines=Code+Wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=FFC312&multiline=true&width=435&lines=Code+Wizard)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpastorm)](https://github.com/ericpastorm/ericpastorm)
