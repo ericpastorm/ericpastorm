@@ -1,8 +1,7 @@
 [![MasterHead](header.png)](https://github.com/ericpastorm/ericpastorm)
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpastorm)](https://github.com/ericpastorm/ericpastorm)
-
-## Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=FFC312&width=435&lines=Code+Wizard)](https://git.io/typing-svg)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpastorm)](https://github.com/ericpastorm/ericpastorm)
 <!--
 **ericpastorm/ericpastorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
