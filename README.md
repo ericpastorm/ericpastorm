@@ -1,12 +1,15 @@
 [![MasterHead](header.png)](https://github.com/ericpastorm/ericpastorm)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=FFC312&width=435&lines=Code+Wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFC312&vCenter=true&width=435&height=30&lines=Code+Wizard+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericpastorm&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpastorm)](https://github.com/ericpastorm/ericpastorm)
+<a href="https://github.com/ericpastorm/ericpastorm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpastorm&hide=,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/ericpastorm/ericpastorm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ericpastorm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FFC312&bg_color=1d1f21" alt="Eric's GitHub Stats" />
+</a>
 <!--
 **ericpastorm/ericpastorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
