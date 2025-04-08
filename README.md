@@ -4,9 +4,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericpastorm&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpastorm)](https://github.com/ericpastorm/ericpastorm)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericpastorm&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 <!--
 **ericpastorm/ericpastorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
