@@ -100,9 +100,9 @@ Self-hosted AI operations agent for a real-estate company, deployed on Hetzner a
 
 ### Client Websites
 
-- [GaelxDesigns](https://gaelxdesigns.com) — Next.js portfolio with Sanity CMS.
+- [Gael Santano](https://gaelsantano.com) — custom Next.js fashion portfolio and storefront with Shopify powering catalog and checkout.
 - [CyD Servicios](https://cydservicios.com) — corporate website for a construction company.
-- [ICOREVEN](https://icoreven.com) — WordPress platform for investors and renovation clients.
+- [ICOREVEN](https://icoreven.com) — custom Astro and Tailwind corporate platform for renovation and investment audiences.
 
 More work is available at [basaltworks.com](https://www.basaltworks.com).
 
