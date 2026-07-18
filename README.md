@@ -1,92 +1,130 @@
-
-
 <div align="center">
 
-[![MasterHead](header.png)](https://github.com/ericpastorm/ericpastorm)
+<a href="https://www.basaltworks.com">
+  <img src="https://www.basaltworks.com/opengraph-image" width="100%" alt="Basalt Works — Software, automation and AI" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFC312&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+Profile!+👋;Code+Wizard+🌱;Full+Stack+Developer+💻;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+# Eric Pastor Moreno
+
+### Software Engineer · Product Builder · Founder of Basalt Works
+
+I build modern websites, AI workflows, mobile apps and custom tools for companies that need practical digital systems.
+
+[![Basalt Works](https://img.shields.io/badge/Basalt_Works-FF4500?style=for-the-badge&logo=firefox&logoColor=black)](https://www.basaltworks.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-pastor-moreno)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@basaltworks.com)
+
+Tarragona, Spain
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## What I Build
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="120" />
+I design and ship digital products from concept to deployment:
 
-- 💻 **Multiplatform software developer** dedicated to transforming ideas into interactive experiences
-- 🔧 My work consists of transforming complex problems into **efficient and elegant software solutions**
-- 📚 I keep myself in **constant learning**, exploring from web and mobile development to artificial intelligence
-- 🌍 Located in **Tarragona, Spain**
-- ⚡ Available for new projects and collaborations
+- **Websites and web platforms** built for speed, clarity and maintainability.
+- **AI agents and automated workflows** that reduce repetitive operational work.
+- **Mobile applications** published on the App Store and Google Play.
+- **Custom internal tools** designed around real business processes.
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vite&theme=dark)](https://skillicons.dev)
-
-### Backend
-[![Backend](https://skillicons.dev/icons?i=js,ts,nodejs,py,django&theme=dark)](https://skillicons.dev)
-
-### Databases
-[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
-
-### Tools & Design
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel,figma,illustrator&theme=dark)](https://skillicons.dev)
-
-</div>
+My focus is practical engineering: every system should solve a clear problem and be usable by the people who depend on it.
 
 ---
 
-## 📊 GitHub Analytics
+## Shipped Products
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ericpastorm&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericpastorm&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ericpastorm&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.basaltworks.com/spindone">
+        <img src="https://www.basaltworks.com/projects/spindone-icon.png" width="84" alt="SpinDone icon" />
+      </a>
+      <br />
+      <strong>SpinDone</strong>
+      <br /><br />
+      Mobile productivity app that helps users start tasks without overthinking.
+      <br /><br />
+      <a href="https://apps.apple.com/app/id6760219447">App Store</a>
+      ·
+      <a href="https://play.google.com/store/apps/details?id=com.basaltworks.spindone">Google Play</a>
+      ·
+      <a href="https://www.basaltworks.com/spindone">Product page</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.basaltworks.com/dungeon-quiz">
+        <img src="https://www.basaltworks.com/products/dungeon-quiz/icon.png" width="84" alt="Dungeon Quiz icon" />
+      </a>
+      <br />
+      <strong>Dungeon Quiz</strong>
+      <br /><br />
+      Replayable trivia RPG combining procedural dungeon runs, bosses and hundreds of questions.
+      <br /><br />
+      <a href="https://apps.apple.com/app/dungeon-quiz-level-up/id6762605745">App Store</a>
+      ·
+      <a href="https://play.google.com/store/apps/details?id=com.basaltworks.dungeonquiz">Google Play</a>
+      ·
+      <a href="https://www.basaltworks.com/dungeon-quiz">Product page</a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.basaltworks.com/animal-gacha">
+        <img src="https://www.basaltworks.com/products/animal-gacha/icon.png" width="84" alt="Animal Gacha icon" />
+      </a>
+      <br />
+      <strong>Animal Gacha</strong>
+      <br /><br />
+      Wildlife card collector featuring real species data, local progression and turn-based combat.
+      <br /><br />
+      <a href="https://apps.apple.com/app/animal-gacha-wildlife-cards/id6770243368">App Store</a>
+      ·
+      <a href="https://play.google.com/store/apps/details?id=com.basaltworks.animalgacha">Google Play</a>
+      ·
+      <a href="https://www.basaltworks.com/animal-gacha">Product page</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
+## Selected Work
 
-<div align="center">
+### PrimeHomes Operations Agent
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ericpastorm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+Self-hosted AI operations agent for a real-estate company, deployed on Hetzner and built with Hermes, custom skills and business-specific workflows.
 
-</div>
+- Reduced document handling time by **70%**.
+- Reduced weekly document work from **5 hours to 90 minutes**.
+- Supports worker scheduling and operational coordination.
+- Accessible through WhatsApp, Telegram and Discord.
 
----
+### Client Websites
 
-## 🌐 Connect with Me
+- [GaelxDesigns](https://gaelxdesigns.com) — Next.js portfolio with Sanity CMS.
+- [CyD Servicios](https://cydservicios.com) — corporate website for a construction company.
+- [ICOREVEN](https://icoreven.com) — WordPress platform for investors and renovation clients.
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://www.ericpastor.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-pastor-moreno)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@ericpastor.dev)
-
-**📍 Tarragona, Spain**
-
-</div>
+More work is available at [basaltworks.com](https://www.basaltworks.com).
 
 ---
 
+## Core Stack
+
 <div align="center">
 
-**Thanks for visiting! 🚀**
+[![Core Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,postgres,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 </div>
+
+**Product:** React Native · Expo · App Store · Google Play  
+**Automation:** AI agents · Hermes · n8n · custom workflows  
+**Web:** Next.js · Astro · Tailwind CSS · WordPress · Sanity  
+**Infrastructure:** Hetzner · Docker · Linux · Vercel
+
+---
+
+## Work With Me
+
+If your business needs a website, AI workflow, internal tool or custom application, send me a short description of the problem.
+
+[![Request a Project Review](https://img.shields.io/badge/Request_a_Project_Review-FF4500?style=for-the-badge&logoColor=black)](mailto:info@basaltworks.com)
