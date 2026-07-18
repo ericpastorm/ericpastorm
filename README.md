@@ -1,35 +1,10 @@
-<div align="center">
+I'm Eric, a software engineer based in Tarragona, Spain. I run [Basalt Works](https://www.basaltworks.com), where I build websites, AI agents and automated workflows, mobile apps and custom internal tools for companies that need practical digital systems.
 
-<a href="https://www.basaltworks.com">
-  <img src="https://www.basaltworks.com/opengraph-image" width="100%" alt="Basalt Works — Software, automation and AI" />
-</a>
+My focus is practical engineering: every system should solve a clear problem and be usable by the people who depend on it.
 
-<a href="https://www.basaltworks.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1400&color=FF4500&center=true&vCenter=true&width=780&height=110&lines=ERIC+PASTOR+MORENO+%2F%2F+SOFTWARE+ENGINEER;FOUNDER+OF+BASALT+WORKS;WEB+%2F+AI+AGENTS+%2F+MOBILE+%2F+INTERNAL+TOOLS" alt="Eric Pastor Moreno // Software Engineer — Founder of Basalt Works — Web / AI Agents / Mobile / Internal Tools" />
-</a>
+## Products
 
-<img src="https://img.shields.io/badge/REGION-EU--WEST-0A0A0A?style=flat-square" alt="Region: EU-West" />
-<img src="https://img.shields.io/badge/BASE-TARRAGONA,_ES-0A0A0A?style=flat-square" alt="Base: Tarragona, Spain" />
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-FF4500?style=flat-square&labelColor=0A0A0A" alt="Status: Operational" />
-
-</div>
-
-## 01 // CAPABILITIES
-
-Systems designed, built and deployed end-to-end — from concept to production.
-
-| SYS | CAPABILITY | DETAIL |
-| --- | --- | --- |
-| `[ WEB ]` | **Websites & web platforms** | Built for speed, clarity and maintainability. |
-| `[ AGENTS ]` | **AI agents & automated workflows** | Reduce repetitive operational work. |
-| `[ MOBILE ]` | **Mobile applications** | Published on the App Store and Google Play. |
-| `[ TOOLS ]` | **Custom internal tools** | Designed around real business processes. |
-
-*Practical engineering only: every system solves a clear problem and is usable by the people who depend on it.*
-
-## 02 // DEPLOYED PRODUCTS
-
-Basalt-owned products, live in production.
+Apps I design, build and ship under Basalt Works:
 
 <table>
   <tr>
@@ -39,8 +14,6 @@ Basalt-owned products, live in production.
       </a>
       <br />
       <strong>SpinDone</strong>
-      <br />
-      <sub>PRODUCTIVITY</sub>
       <br /><br />
       Mobile productivity app that helps users start tasks without overthinking.
       <br /><br />
@@ -56,8 +29,6 @@ Basalt-owned products, live in production.
       </a>
       <br />
       <strong>Dungeon Quiz</strong>
-      <br />
-      <sub>TRIVIA RPG</sub>
       <br /><br />
       Replayable trivia RPG combining procedural dungeon runs, bosses and hundreds of questions.
       <br /><br />
@@ -73,8 +44,6 @@ Basalt-owned products, live in production.
       </a>
       <br />
       <strong>Animal Gacha</strong>
-      <br />
-      <sub>CARD COLLECTOR</sub>
       <br /><br />
       Wildlife card collector featuring real species data, local progression and turn-based combat.
       <br /><br />
@@ -87,75 +56,40 @@ Basalt-owned products, live in production.
   </tr>
 </table>
 
-## 03 // CASE FILE
+## Selected work
 
-### PRIMEHOMES OPERATIONS AGENT
+**PrimeHomes Operations Agent** — a self-hosted AI operations agent I built for a real-estate company. Deployed on Hetzner and built with Hermes, custom skills and business-specific workflows, it handles document work, worker scheduling and operational coordination over WhatsApp, Telegram and Discord. It cut document handling time by **70%** and weekly document work from **5 hours to 90 minutes**.
 
-Self-hosted AI operations agent for a real-estate company.
+Client sites I've built:
 
-| FIELD | SPEC |
-| --- | --- |
-| `SYSTEM` | AI operations agent — Hermes, custom skills and business-specific workflows |
-| `INFRA` | Self-hosted on Hetzner |
-| `CHANNELS` | WhatsApp · Telegram · Discord |
-| `SCOPE` | Document handling · worker scheduling · operational coordination |
-| `RESULT` | **−70%** document handling time — weekly document work cut from **5 hours to 90 minutes** |
+- [Gael Santano](https://gaelsantano.com) — custom Next.js fashion portfolio and storefront, with Shopify powering catalog and checkout.
+- [CyD Servicios](https://cydservicios.com) — corporate website for a construction company.
+- [ICOREVEN](https://icoreven.com) — custom Astro and Tailwind corporate platform for renovation and investment audiences.
 
-## 04 // CLIENT WORK
+More work at [basaltworks.com](https://www.basaltworks.com).
 
-| SITE | BUILD |
-| --- | --- |
-| [gaelsantano.com](https://gaelsantano.com) | Custom Next.js fashion portfolio and storefront — Shopify powering catalog and checkout |
-| [cydservicios.com](https://cydservicios.com) | Corporate website for a construction company |
-| [icoreven.com](https://icoreven.com) | Custom Astro and Tailwind corporate platform for renovation and investment audiences |
-
-Full archive at [basaltworks.com](https://www.basaltworks.com).
-
-## 05 // STACK
+## Stack
 
 <div align="center">
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,postgres,docker,linux,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,postgres,docker,linux,git&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,postgres,docker,linux,git&theme=light" alt="Core stack: TypeScript, React, Next.js, Node.js, Python, Postgres, Docker, Linux, Git" />
-  </picture>
-</a>
-<br />
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro,tailwind,wordpress,vercel,expo&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=astro,tailwind,wordpress,vercel,expo&theme=light" />
-    <img src="https://skillicons.dev/icons?i=astro,tailwind,wordpress,vercel,expo&theme=light" alt="Astro, Tailwind CSS, WordPress, Vercel, Expo" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cpy%2Cpostgres%2Cdocker%2Clinux%2Cgit&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cpy%2Cpostgres%2Cdocker%2Clinux%2Cgit&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,py,postgres,docker,linux,git&theme=light" alt="TypeScript, React, Next.js, Node.js, Python, Postgres, Docker, Linux, Git" />
   </picture>
 </a>
 
 </div>
 
-| DOMAIN | STACK |
-| --- | --- |
-| `PRODUCT` | React Native · Expo · App Store · Google Play |
-| `AUTOMATION` | AI agents · Hermes · n8n · custom workflows |
-| `WEB` | Next.js · Astro · Tailwind CSS · WordPress · Sanity |
-| `INFRA` | Hetzner · Docker · Linux · Vercel |
+Beyond the core: React Native and Expo for mobile, Hermes and n8n for AI agents and automation workflows, Astro, Tailwind, WordPress and Sanity for the web — running on Hetzner, Docker, Linux and Vercel.
 
-## 06 // INITIATE
+## Contact
 
-If your business needs a website, AI workflow, internal tool or custom application, send a short description of the problem.
+If you need a website, an AI workflow, an internal tool or a custom application, send me a short description of the problem. I read everything at [info@basaltworks.com](mailto:info@basaltworks.com), and you can also find me on [LinkedIn](https://linkedin.com/in/eric-pastor-moreno).
 
 <div align="center">
 
 [![Request a Project Review](https://img.shields.io/badge/REQUEST_A_PROJECT_REVIEW-FF4500?style=flat-square)](mailto:info@basaltworks.com)
-[![Basalt Works](https://img.shields.io/badge/BASALTWORKS.COM-0A0A0A?style=flat-square)](https://www.basaltworks.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-pastor-moreno)
 
-<sub>DIRECT CHANNEL — [info@basaltworks.com](mailto:info@basaltworks.com)</sub>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=100&section=footer&text=BASALT%20WORKS%20%2F%2F%20EST.%202026&fontSize=22&fontColor=FF4500" width="100%" alt="Basalt Works // Est. 2026" />
 </div>
