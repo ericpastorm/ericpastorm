@@ -29,6 +29,10 @@ rule     every system solves a clear problem.
 <a href="https://icoreven.com">icoreven.com</a>         renovation &amp; investment platform · astro, tailwind
 <a href="https://cydservicios.com">cydservicios.com</a>     construction company site · astro, tailwind
 
+<b>eric@basalt:~$</b> ls ~/internal-tools
+<a href="https://github.com/ericpastorm/meshkeep">meshkeep</a>   static sites on a p2p network · no servers
+<a href="https://github.com/ericpastorm/actx">actx</a>       sync ai agent conversations across machines
+
 <b>eric@basalt:~$</b> cat ~/.stack
 core     typescript react next.js node python postgres
 mobile   react-native expo
@@ -40,7 +44,8 @@ infra    hetzner cloudflare docker linux vercel git
 need a website, an ai workflow, an internal tool or a custom app?
 send a short description of the problem. i read everything.
 
-  --mail       <a href="mailto:eric@basaltworks.com">eric@basaltworks.com</a>
+  --mail       <a href="mailto:info@basaltworks.com">info@basaltworks.com</a>
+  --linkedin   <a href="https://linkedin.com/in/eric-pastor-moreno">in/eric-pastor-moreno</a>
   --web        <a href="https://www.basaltworks.com">basaltworks.com</a>
 
 <b>eric@basalt:~$</b> █
