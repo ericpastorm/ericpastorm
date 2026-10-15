@@ -45,7 +45,6 @@ need a website, an ai workflow, an internal tool or a custom app?
 send a short description of the problem. i read everything.
 
   --mail       <a href="mailto:info@basaltworks.com">info@basaltworks.com</a>
-  --linkedin   <a href="https://linkedin.com/in/eric-pastor-moreno">in/eric-pastor-moreno</a>
   --web        <a href="https://www.basaltworks.com">basaltworks.com</a>
 
 <b>eric@basalt:~$</b> █
