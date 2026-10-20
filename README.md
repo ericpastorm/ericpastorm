@@ -32,6 +32,7 @@ rule     every system solves a clear problem.
 <b>eric@basalt:~$</b> ls ~/internal-tools
 <a href="https://github.com/ericpastorm/meshkeep">meshkeep</a>   static sites on a p2p network · no servers
 <a href="https://github.com/ericpastorm/actx">actx</a>       sync ai agent conversations across machines
+<a href="https://github.com/ericpastorm/pneuma">pneuma</a>       private chat and file drop for your own devices, over your Tailscale tailnet
 
 <b>eric@basalt:~$</b> cat ~/.stack
 core     typescript react next.js node python postgres
