@@ -8,7 +8,6 @@ name     eric pastor
 role     software engineer · founder @ <a href="https://www.basaltworks.com">basalt works</a>
 loc      tarragona, es
 builds   websites · ai agents · automation · mobile apps · internal tools
-rule     every system solves a clear problem.
 
 <b>eric@basalt:~$</b> ls ~/apps
 <a href="https://www.basaltworks.com/spindone">spindone</a>       start tasks without overthinking    [<a href="https://apps.apple.com/app/id6760219447">ios</a>] [<a href="https://play.google.com/store/apps/details?id=com.basaltworks.spindone">play</a>]
